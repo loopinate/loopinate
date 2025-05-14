@@ -28,7 +28,7 @@ Jest, Mocha, Enzyme, Cypress, Selenium, TDD
 - Creating reusable, scalable UI libraries and SDKs  
 - Designing REST/GraphQL APIs and integrating with 3rd-party services  
 - Leading teams, mentoring developers, and managing Agile workflows
-- 
+
 ---
 
 🔍 Open to collaborating on impactful projects or joining teams focused on innovation, performance, and clean architecture.
